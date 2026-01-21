@@ -9,29 +9,30 @@ const themes = [
 
 // Updated Hindi Default Data
 const defaults = {
-    meta: { accent: 0 }, // Index of theme
+    meta: { accent: 2 }, 
     data: { 
-        name:'शिवानी कुमारी', 
-        dob:'2005-08-02', 
-        tob:'06:30', 
-        pob:'अलीगढ़',
-        height:'5 फुट 5 इंच', 
+        name:'अंजलि यादव', 
+        dob:'2001-04-20', 
+        tob:'09:15', 
+        pob:'कानपुर',
+        height:'5 फुट 3 इंच', 
         complexion:'साफ (Fair)', 
-        rashi:'मकर', 
+        rashi:'मेष', 
         manglik:'नहीं',
         religion:'हिन्दू', 
-        caste:'जाटव', 
-        education:'इंटरमीडिएट',
-        father:'ज्ञान सिंह', 
-        fatherOcc:'किसान', 
-        mother:'गुड्डी देवी', 
+        caste:'यादव', 
+        education:'एम.एस.सी (गणित), बी.एड',
+        father:'रमेश यादव', 
+        fatherOcc:'व्यवसायी (खुद की दुकान)', 
+        mother:'कमलेश देवी', 
         motherOcc:'गृहिणी',
-        brothers:'1', 
-        sisters:'3 विवाहित, 1 अविवाहित',
-        contact:'9876543210', 
-        address:'खैरा बुजुर्ग, रणजीत गढ़ी, खैर, अलीगढ़'
+        brothers:'2 (1 विवाहित)', 
+        sisters:'कोई नहीं',
+        contact:'8877665544', 
+        address:'गोविन्द नगर, कानपुर, उत्तर प्रदेश'
     }
 };
+
 
 let state;
 const get = id => document.getElementById(id);
