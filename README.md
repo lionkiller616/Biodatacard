@@ -1,4 +1,3 @@
-# Biodatacard
 # 👑 Biodata  
 ## Royal Marriage Biodata Creator
 
@@ -79,20 +78,18 @@ Themes persist automatically using localStorage.
 
 ---
 
-'''
 ## 📁 Project Structure
 ├── index.html 
 ├── style.css 
 ├── script.js 
 └── README.md
-'''
 
 ---
 
 ## 🚀 Getting Started
 
 1. Open the live website:  
-   👉 https://lionkiller616.github.io/
+   👉 https://lionkiller616.github.io/biodatacard/
 
 2. Fill all biodata details
 3. Switch to preview mode
