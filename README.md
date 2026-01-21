@@ -79,10 +79,12 @@ Themes persist automatically using localStorage.
 ---
 
 ## 📁 Project Structure
-├── index.html 
-├── style.css 
-├── script.js 
-└── README.md
+
+    ├── index.html
+    ├── style.css
+    ├── cards.css
+    ├── script.js
+    └── README.md
 
 ---
 
